@@ -1,18 +1,13 @@
-# The British Mathematical Olympiad: Unofficial Solutions Manual
+# British Mathematical Olympiad Solutions
 
-The idea of this repo is to host solutions to BMO papers lacking official solutions. For some official solutions consult [the videos](https://bmos.ukmt.org.uk/solutions/) and Geoff Smith's books on the matter. I intend for this to be an open sourced project, as I have insufficient freetime to get through every paper. To make this project feasible, only papers after the turn of the Millenium are considered. 
+Due to absurd copyright laws this project can no longer be pursued. I elect to leave the solutions I've already written here for two reasons: 
 
-For comments, corrections, missing solutions and interesting alternative solutions, please email me at
+1) The work here is all my own and the papers are already publicly accessible, there is no reasonable case here.
+2) Mathematics is to be shared, putting up barriers only stunts the growth of our next generation of mathematicians.
 
-    - jacobgreen1011@gmail.com
+Originally, I wanted to open source this and collect solutions to all the old BMO1/2 papers. At the request of Geoff Smith personally I have decided to no longer pursue this element of the project. Future interesting solutions will be delegated to articles and if I receive an email from any lawyers I will, with a heavy heart, be deleting this repository as I don't possess the means to win such a battle. 
 
-Better yet, make a pull request! Try to follow the style used throughout the document as closely as possible if making a pull request. If you're not experienced with git an email will suffice, though I may not get around to adding it immediately. Typed solutions (with a tex file attached) are **much** preferred.
-
-New/alternative solutions will be credited to their original authors. Those who highlight errors will receive a mention in an appendix. That said, if one prefers to remain anonymous then their wishes will be respected. 
-
-I am no good at Euclidean geometry, so I've skipped these problems. A geometry enthusiast's help is highly desired!
-
-I've tried to always give the most elementary solution (or as Erdős would say, the "book proof") as this is what would realistically be expected of a candidate. Sometimes some advanced theory kills the problem. If this is the case, and if I'm aware of the theory, I remark on it for interested readers, but do not design my solution around it. In general, if a theorem trivialises a problem it is expected that a proof of said theorem is to be supplied. 
+If you are a budding young mathematician who shares my view that the copyright claims are absurd, please feel free to pick up the torch. I will happily help contribute some solutions and give whatever guidance I can. You may reach me at jacobgreen1011@gmail.com 
 
 # Progress
 
